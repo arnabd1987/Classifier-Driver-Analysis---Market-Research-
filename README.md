@@ -1,7 +1,7 @@
 ## Classifier-Driver-Analysis---Market-Research-
 
 #User Guide
-DriverAnalysis_C is the main program
+DriverAnalysis_C is the main program /n
 All the *.py files in the reporsitory has to be in the same folder for this proram to run
 Keep the data file in the same folder
 Sample Size should be more than number of independent varivale * 20 at bare minimum. If there are 10 independent variable then sample size should be 10*20=200
