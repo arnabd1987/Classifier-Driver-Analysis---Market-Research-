@@ -1,6 +1,6 @@
 ## Classifier-Driver-Analysis---Market-Research-
 
-#User Guide
+<b>#User Guide</b>
 DriverAnalysis_C is the main program 
 
 All the *.py files in the reporsitory has to be in the same folder for this proram to run
